@@ -1,7 +1,3 @@
-Sure, here's an example of a README file for the "Shakespeare Word Count Analysis" project using Databricks.
-
----
-
 # Shakespeare Word Count Analysis
 
 This project demonstrates a word count analysis on the complete works of William Shakespeare using Apache Spark on Databricks. The objective is to showcase how Spark can be used to process large text files and perform simple data analysis tasks such as counting word frequencies.
